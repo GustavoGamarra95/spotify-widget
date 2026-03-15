@@ -22,7 +22,16 @@ Displays album art, track info, playback controls, seek bar, volume, lyrics, and
 
 ## Preview
 
-> *(Add screenshots here)*
+### Vertical mode
+![Vertical - Album Art](screenshots/vertical.png)
+![Vertical - Album Art 2](screenshots/vertical2.png)
+
+### Lyrics view
+![Lyrics](screenshots/lyrics.png)
+![Lyrics 2](screenshots/lyrics2.png)
+
+### Demo video
+https://github.com/GustavoGamarra95/spotify-widget/raw/master/screenshots/demo.mp4
 
 ---
 
