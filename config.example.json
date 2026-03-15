@@ -1,0 +1,6 @@
+{
+  "client_id":     "YOUR_SPOTIFY_CLIENT_ID",
+  "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET",
+  "redirect_uri":  "http://localhost:8888/callback",
+  "sp_dc":         "YOUR_SP_DC_COOKIE"
+}
